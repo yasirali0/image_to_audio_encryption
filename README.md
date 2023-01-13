@@ -11,3 +11,6 @@ Though it is not as secure as it should be, still it was an attempt to make some
 ```cmd
 pip install -r requirements.txt
 ```
+
+
+![alt text](https://github.com/[yasirali0]/[image_to_audio_encryption]/blob/[main]/gui.png?raw=true)
