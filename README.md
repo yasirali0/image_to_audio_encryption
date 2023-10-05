@@ -3,7 +3,7 @@
 
 <br/>
 
-![alt text](https://github.com/yasirali0/image_to_audio_encryption/blob/main/gui.png?raw=true)
+![alt text](https://github.com/yasirali0/image_to_audio_encryption/blob/main/gui.PNG?raw=true)
 
 <br/>
 
