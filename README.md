@@ -19,5 +19,5 @@ Though it is not as sophisticated and secure as it should be, still it was an at
 pip install -r requirements.txt
 ```
 
-The python program is also converted to ".exe" file. <br/>
+The python program is also converted to ".exe" file which can be found in release. <br/>
 This is done so that it can be run on windows without installing Python and other requirements.
